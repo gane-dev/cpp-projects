@@ -1,0 +1,3 @@
+/home/ganesh/cpp/cpp-projects/chkfile/build/CMakeFiles/rebuild_cache.dir
+/home/ganesh/cpp/cpp-projects/chkfile/build/CMakeFiles/edit_cache.dir
+/home/ganesh/cpp/cpp-projects/chkfile/build/CMakeFiles/chkfile.dir
