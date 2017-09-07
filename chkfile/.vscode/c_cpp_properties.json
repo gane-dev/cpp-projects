@@ -1,12 +1,8 @@
 {
     "configurations": [
         {
-            "name": "Linux",
-            "includePath": ["/usr/include",
-                            "/usr/include/c++/6",
-                        "/usr/include/clang/4.0.0/include",
-                        "/usr/include/clang/4.0/include"],
-            
+            "name": "null",
+            "includePath": [],
             "defines": [],
             "browse": {
                 "path": [
